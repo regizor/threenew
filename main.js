@@ -22,7 +22,7 @@ let modelCrema;
 
 const loader = new GLTFLoader();
 loader.load(
-  'https://65dcb00723503e00083cf337--spectacular-cupcake-7ecc17.netlify.app/assets/cream.glb', // Path to your GLB model, relative to the public directory
+  'https://65dcb00723503e00083cf337--spectacular-cupcake-7ecc17.netlify.app/models/cream.glb', // Path to your GLB model, relative to the public directory
   function (gltf) {
     modelCrema = gltf.scene;
     scene.add(modelCrema);
