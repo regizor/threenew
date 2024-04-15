@@ -1,0 +1,4 @@
+/*
+  Access-Control-Allow-Origin: https://threejs-iframe-test.webflow.io/
+  Access-Control-Allow-Methods: GET, POST, OPTIONS
+  Access-Control-Allow-Headers: Content-Type
