@@ -1,9 +1,0 @@
-# Define which resource paths this applies to, * for all paths
-/*
-  # Allow the following origin to make requests
-  Access-Control-Allow-Origin: https://threejs-iframe-test.webflow.io
-  # Define which headers and methods are allowed
-  Access-Control-Allow-Methods: GET, POST, OPTIONS
-  Access-Control-Allow-Headers: Content-Type
-  # Optionally, you can allow credentials such as cookies to be sent
-  Access-Control-Allow-Credentials: true
