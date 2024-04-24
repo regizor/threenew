@@ -22,7 +22,7 @@ let modelCrema;
 
 const loader = new GLTFLoader();
 loader.load(
-  'https://uploads-ssl.webflow.com/661d5ecbde1e372fed68b9d7/66290fad07502bae38dea183_cream.glb.txt', // Path to your GLB model, relative to the public directory
+  'https://uploads-ssl.webflow.com/661d5ecbde1e372fed68b9d7/662916821e59e1ef85e65761_Sample-container.gltf.txt', // Path to your GLB model, relative to the public directory
   function (gltf) {
     modelCrema = gltf.scene;
     scene.add(modelCrema);
